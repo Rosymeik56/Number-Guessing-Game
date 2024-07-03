@@ -1,7 +1,7 @@
 Number-Guessing-Game
 a simple java project based on core java concepts.
 
-Scenario: You are a gamer, who have designed a game of guessing the number.The number is generated randomly by the user.
+Scenario: You are a gamer, who have designed a game of guessing the number.The number is generated randomly by the computer.
 
 Your application should do the following: 
 -Generate a random number between 1 to 100
