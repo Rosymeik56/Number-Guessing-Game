@@ -33,7 +33,7 @@ public class NGG {
                         + "Choose a smaller number than " +num);
             } else if ((num < random) && (i != k - 1)) {
                 System.out.println(num + " is smaller than the number generated." + "You have another chance."
-                        + "Choose a greater number than " + random);
+                        + "Choose a greater number than " + num);
             }
         }
             if (i == k) {
